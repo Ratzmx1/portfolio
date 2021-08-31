@@ -1,0 +1,81 @@
+body {
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+}
+
+.container {
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+nav {
+  overflow: hidden;
+}
+
+nav .nav_content {
+  margin-top: 4vh;
+}
+
+nav .nav_content .nav_title {
+  float: left;
+  margin-top: 0;
+}
+
+nav .nav_content .nav_items {
+  float: right;
+  list-style: none;
+  list-style-type: none;
+}
+
+nav .nav_content .nav_items .nav_item {
+  float: left;
+}
+
+nav .nav_content .nav_items .nav_item .nav_link {
+  color: black;
+  display: flex;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.table {
+  display: table;
+  width: 100%;
+}
+.row {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+}
+
+.profile_section .profile_image {
+  border-radius: 100%;
+  width: 30%;
+  margin-left: 50%;
+  transform: translate(-50%, 50%);
+}
+
+.profile_section .profile_text {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  text-align: justify;
+  width: 50%;
+}
+
+.contact_data_section {
+  margin-top: 10vh;
+  text-align: center;
+}
+
+.title {
+  color: black;
+}
+
+.subtitle {
+  color: rgba(0, 0, 0, 0.466);
+}
+
+.email {
+  text-decoration: none;
+}
