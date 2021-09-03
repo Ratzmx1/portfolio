@@ -64,6 +64,7 @@
             <div class="center_flex">
               <img
                 width="250px"
+                height="250px"
                 title="Profile Pic"
                 src="https://enzopigatti.cl/assets/perfil.webp"
                 alt="Profile Image"
@@ -118,6 +119,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 1"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/nodejs-1.svg"
@@ -127,6 +129,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 2"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/react-2.svg"
@@ -136,6 +139,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 3"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/laravel-2.svg"
@@ -145,6 +149,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 4"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/spring-3.svg"
@@ -156,6 +161,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 5"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/logo-javascript.svg"
@@ -165,6 +171,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 6"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/typescript.svg"
@@ -174,6 +181,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 7"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/python-5.svg"
@@ -183,6 +191,7 @@
           <div class="center_flex col s12 m3" style="margin-top: 25px">
             <img
               width="100px"
+              height="100px"
               title="Tecnology 8"
               class="abilities_card_img"
               src="https://enzopigatti.cl/assets/php.svg"
@@ -202,6 +211,7 @@
                   <div class="card-image">
                     <img
                       width="450px"
+                      height="450px"
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 1"
@@ -231,6 +241,7 @@
                   <div class="card-image">
                     <img
                       width="450px"
+                      height="450px"
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
@@ -263,6 +274,7 @@
                   <div class="card-image">
                     <img
                       width="450px"
+                      height="450px"
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 1"
@@ -292,6 +304,7 @@
                   <div class="card-image">
                     <img
                       width="450px"
+                      height="450px"
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
