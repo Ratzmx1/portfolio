@@ -13,6 +13,10 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Enzo Pigatti | Portafolio" />
     <meta
+      property="og:image"
+      content="https://enzopigatti.cl/assets/perfil.webp"
+    />
+    <meta
       property="og:description"
       content="Hello! My name it's Enzo Pigatti, am a computer engineer student and i love software development"
     />
