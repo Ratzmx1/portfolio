@@ -1,0 +1,43 @@
+html {
+  font-family: "IBM Plex Sans Arabic", sans-serif !important;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+/* header > p {
+  font-size: 1.2rem;
+  line-height: 2rem;
+} */
+
+.center_flex {
+  display: flex;
+  justify-content: center;
+}
+
+a > .text-centered {
+  text-decoration: none;
+  color: #fff;
+  line-height: 1rem;
+  margin-top: 0;
+}
+
+.profile_img {
+  width: 25vh;
+  object-fit: cover;
+}
+
+.text_profile {
+  margin-top: 8vh;
+  color: #fff;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+.img_proyect {
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
