@@ -413,7 +413,7 @@
                         id="comment"
                         name="body"
                       >
-Hello Enzo! my name it's</textarea
+Hello Enzo! my name is</textarea
                       >
                     </div>
                     <button class="btn deep-purple btn-block" type="submit">
