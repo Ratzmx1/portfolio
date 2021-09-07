@@ -1,1 +1,121 @@
-html{font-family:"IBM Plex Sans Arabic",sans-serif!important}p{font-size:1.2rem}.center_flex{display:flex;justify-content:center}a>.text-centered{text-decoration:none;color:#fff;line-height:1rem;margin-top:0}.profile_img{width:25vh;object-fit:cover}.text_profile{margin-top:8vh;color:#fff}.text-centered{text-align:center}.img_proyect{aspect-ratio:4/3;object-fit:cover}.timeline_img{padding:5%}.timeline{position:relative}.timeline .timeline-event{position:relative;padding-top:5px;padding-bottom:5px}.timeline .timeline-event .timeline-content{position:relative;width:calc(50% - 50px)}.timeline .timeline-event::before{display:block;content:"";width:2px;height:calc(50% - 30px);position:absolute;background:#d2d2d2;left:calc(50% - 1px);top:0}.timeline .timeline-event::after{display:block;content:"";width:2px;height:calc(50% - 30px);position:absolute;background:#d2d2d2;left:calc(50% - 1px);top:calc(50% + 30px)}.timeline .timeline-event:first-child::before{display:none}.timeline .timeline-event:last-child::after{display:none}.timeline .timeline-event:nth-child(odd) .timeline-content{margin-left:calc(50% + 50px)}.timeline .timeline-event:nth-child(even) .timeline-content{margin-left:0}.timeline .timeline-badge{display:block;position:absolute;width:40px;height:40px;top:calc(50% - 20px);right:calc(50% - 20px);border-radius:50%;text-align:center;cursor:default}.timeline .timeline-badge i{font-size:25px;line-height:40px}@media (max-width:600px){.timeline .timeline-event .timeline-content{width:calc(100% - 70px)}.timeline .timeline-event::before{left:19px}.timeline .timeline-event::after{left:19px}.timeline .timeline-event:nth-child(even) .timeline-content{margin-left:70px}.timeline .timeline-event:nth-child(odd) .timeline-content{margin-left:70px}.timeline .timeline-badge{left:0}}
+html {
+  font-family: "IBM Plex Sans Arabic", sans-serif !important;
+}
+p {
+  font-size: 1.2rem;
+}
+.center_flex {
+  display: flex;
+  justify-content: center;
+}
+a > .text-centered {
+  text-decoration: none;
+  color: #fff;
+  line-height: 1rem;
+  margin-top: 0;
+}
+.profile_img {
+  width: 25vh;
+  object-fit: cover;
+}
+.text_profile {
+  margin-top: 8vh;
+  color: #fff;
+}
+.text-centered {
+  text-align: center;
+}
+.img_proyect {
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+.timeline_img {
+  padding: 5%;
+}
+.timeline {
+  position: relative;
+}
+.timeline .timeline-event {
+  position: relative;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.timeline .timeline-event .timeline-content {
+  position: relative;
+  width: calc(50% - 50px);
+}
+.timeline .timeline-event::before {
+  display: block;
+  content: "";
+  width: 2px;
+  height: calc(50% - 30px);
+  position: absolute;
+  background: #d2d2d2;
+  left: calc(50% - 1px);
+  top: 0;
+}
+.timeline .timeline-event::after {
+  display: block;
+  content: "";
+  width: 2px;
+  height: calc(50% - 30px);
+  position: absolute;
+  background: #d2d2d2;
+  left: calc(50% - 1px);
+  top: calc(50% + 30px);
+}
+.timeline .timeline-event:first-child::before {
+  display: none;
+}
+.timeline .timeline-event:last-child::after {
+  display: none;
+}
+.timeline .timeline-event:nth-child(odd) .timeline-content {
+  margin-left: calc(50% + 50px);
+}
+.timeline .timeline-event:nth-child(even) .timeline-content {
+  margin-left: 0;
+}
+.timeline .timeline-badge {
+  display: block;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: calc(50% - 20px);
+  right: calc(50% - 20px);
+  border-radius: 50%;
+  text-align: center;
+  cursor: default;
+}
+.timeline .timeline-badge i {
+  font-size: 25px;
+  line-height: 40px;
+}
+@media (max-width: 600px) {
+  .timeline .timeline-event .timeline-content {
+    width: calc(100% - 70px);
+  }
+  .timeline .timeline-event::before {
+    left: 19px;
+  }
+  .timeline .timeline-event::after {
+    left: 19px;
+  }
+  .timeline .timeline-event:nth-child(even) .timeline-content {
+    margin-left: 70px;
+  }
+  .timeline .timeline-event:nth-child(odd) .timeline-content {
+    margin-left: 70px;
+  }
+  .timeline .timeline-badge {
+    left: 0;
+  }
+}
+
+@font-face {
+  font-family: IBM;
+  src: url(/assets/IBM.ttf);
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
