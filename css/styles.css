@@ -1,5 +1,5 @@
 html {
-  font-family: "IBM Plex Sans Arabic", sans-serif !important;
+  font-family: "IBM", sans-serif !important;
 }
 p {
   font-size: 1.2rem;
@@ -87,9 +87,9 @@ a > .text-centered {
   text-align: center;
   cursor: default;
 }
-.timeline .timeline-badge i {
-  font-size: 25px;
-  line-height: 40px;
+.timeline .timeline-badge img {
+  margin-top: 50%;
+  transform: translate(0, -50%);
 }
 @media (max-width: 600px) {
   .timeline .timeline-event .timeline-content {
@@ -113,7 +113,7 @@ a > .text-centered {
 }
 
 @font-face {
-  font-family: IBM;
+  font-family: "IBM";
   src: url(/assets/IBM.ttf);
   font-weight: 400;
   font-style: normal;

@@ -9,7 +9,7 @@
       content="Hello! My name it's Enzo Pigatti, am a computer engineer student and i love software development"
     />
     <meta name="robots" content="index,follow" />
-    <meta name="canonical" content="/" />
+    <meta name="canonical" content="https://enzopigatti.cl/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Enzo Pigatti | Portafolio" />
     <meta
@@ -34,16 +34,6 @@
     <link href="https://enzopigatti.cl/css/styles.css" rel="stylesheet" />
     <link
       href="https://enzopigatti.cl/css/materialize.min.css"
-      rel="stylesheet"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400&display=swap"
-      rel="stylesheet"
-    /> -->
-    <link
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet"
     />
   </head>
@@ -111,10 +101,7 @@
           >
         </div>
         <div class="col s12 m4" style="margin-top: 15px; margin-bottom: 15px">
-          <a
-            style="width: 100%"
-            href="https://enzopigatti.cl/assets/Enzo_Pigatti.pdf"
-            download
+          <a style="width: 100%" href="/assets/Enzo_Pigatti.pdf" download
             ><p class="text-centered">Download CV</p>
             <p class="text-centered" style="color: #673ab7">.</p></a
           >
@@ -440,7 +427,9 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <i class="material-icons">fiber_manual_record</i>
+                <img
+                  src="https://enzopigatti.cl/assets/fiber_manual_record_black_24dp.svg"
+                />
               </div>
             </div>
             <!-- Start of the event -->
@@ -463,7 +452,9 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <i class="material-icons">fiber_manual_record</i>
+                <img
+                  src="https://enzopigatti.cl/assets/fiber_manual_record_black_24dp.svg"
+                />
               </div>
             </div>
             <!-- End of the event -->
@@ -489,12 +480,16 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <i class="material-icons">fiber_manual_record</i>
+                <img
+                  src="https://enzopigatti.cl/assets/fiber_manual_record_white_24dp.svg"
+                />
               </div>
             </div>
             <div class="timeline-event">
               <div class="timeline-badge deep-purple white-text">
-                <i class="material-icons">more_vert</i>
+                <img
+                  src="https://enzopigatti.cl/assets/more_vert_white_24dp.svg"
+                />
               </div>
             </div>
           </div>
