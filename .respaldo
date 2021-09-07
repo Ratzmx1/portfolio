@@ -37,7 +37,6 @@
       rel="stylesheet"
     />
   </head>
-
   <body>
     <header id="top" class="deep-purple">
       <div class="navbar-fixed">
@@ -399,8 +398,8 @@
                 <div class="card-content">
                   <span class="card-title grey-text"
                     >Data Modeling / Database Assistantship | Second semester
-                    2021
-                  </span>
+                    2021</span
+                  >
                   <ul class="browser-default">
                     <li>
                       <b>Data Modeling:</b>
@@ -428,7 +427,7 @@
               </div>
               <div class="timeline-badge deep-purple white-text">
                 <img
-                  src="https://enzopigatti.cl/assets/fiber_manual_record_black_24dp.svg"
+                  src="https://enzopigatti.cl/assets/fiber_manual_record_white_24dp.svg"
                 />
               </div>
             </div>
@@ -453,7 +452,7 @@
               </div>
               <div class="timeline-badge deep-purple white-text">
                 <img
-                  src="https://enzopigatti.cl/assets/fiber_manual_record_black_24dp.svg"
+                  src="https://enzopigatti.cl/assets/fiber_manual_record_white_24dp.svg"
                 />
               </div>
             </div>
@@ -468,8 +467,9 @@
                 </div>
                 <div class="card-content">
                   <span class="card-title grey-text"
-                    >Discrete structures Assistantship | Second semester 2020
-                  </span>
+                    >Discrete structures Assistantship | Second semester
+                    2020</span
+                  >
                   <ul class="browser-default">
                     <li>Discrete probability</li>
                     <li>Graphs theory</li>
