@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -12,7 +12,10 @@
     <meta name="canonical" content="/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Enzo Pigatti | Portafolio" />
-    <meta property="og:image" content="/assets/perfil.webp" />
+    <meta
+      property="og:image"
+      content="https://enzopigatti.cl/assets/perfil.webp"
+    />
     <meta
       property="og:description"
       content="Hello! My name it's Enzo Pigatti, am a computer engineer student and i love software development"
@@ -23,9 +26,16 @@
       content="Enzo,Pigatti,Enzo Pigatti,Portfolio,Portafolio,Desarrollador,Developer,Talca,Chile"
     />
     <title>Enzo Pigatti</title>
-    <link rel="icon" type="image/webp" href="/assets/icon.webp" />
-    <link href="/css/styles.css" rel="stylesheet" />
-    <link href="/css/materialize.min.css" rel="stylesheet" />
+    <link
+      rel="icon"
+      type="image/webp"
+      href="https://enzopigatti.cl/assets/icon.webp"
+    />
+    <link href="https://enzopigatti.cl/css/styles.css" rel="stylesheet" />
+    <link
+      href="https://enzopigatti.cl/css/materialize.min.css"
+      rel="stylesheet"
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -69,7 +79,7 @@
                 width="250px"
                 height="250px"
                 title="Profile Pic"
-                src="/assets/perfil.webp"
+                src="https://enzopigatti.cl/assets/perfil.webp"
                 alt="Profile Image"
                 class="responsive-img circle profile_img"
               />
@@ -101,7 +111,10 @@
           >
         </div>
         <div class="col s12 m4" style="margin-top: 15px; margin-bottom: 15px">
-          <a style="width: 100%" href="/assets/Enzo_Pigatti.pdf" download
+          <a
+            style="width: 100%"
+            href="https://enzopigatti.cl/assets/Enzo_Pigatti.pdf"
+            download
             ><p class="text-centered">Download CV</p>
             <p class="text-centered" style="color: #673ab7">.</p></a
           >
@@ -158,7 +171,7 @@
               height="100px"
               title="Tecnology 1"
               class="abilities_card_img"
-              src="/assets/nodejs-1.svg"
+              src="https://enzopigatti.cl/assets/nodejs-1.svg"
               alt="NodeJs Logo"
             />
           </div>
@@ -169,7 +182,7 @@
               height="100px"
               title="Tecnology 2"
               class="abilities_card_img"
-              src="/assets/react-2.svg"
+              src="https://enzopigatti.cl/assets/react-2.svg"
               alt="ReactJs Logo"
             />
           </div>
@@ -180,7 +193,7 @@
               height="100px"
               title="Tecnology 3"
               class="abilities_card_img"
-              src="/assets/laravel-2.svg"
+              src="https://enzopigatti.cl/assets/laravel-2.svg"
               alt="Laravel Logo"
             />
           </div>
@@ -191,7 +204,7 @@
               height="100px"
               title="Tecnology 4"
               class="abilities_card_img"
-              src="/assets/spring-3.svg"
+              src="https://enzopigatti.cl/assets/spring-3.svg"
               alt="Spring Logo"
             />
           </div>
@@ -204,7 +217,7 @@
               height="100px"
               title="Tecnology 5"
               class="abilities_card_img"
-              src="/assets/logo-javascript.svg"
+              src="https://enzopigatti.cl/assets/logo-javascript.svg"
               alt="Javascript Logo"
             />
           </div>
@@ -215,7 +228,7 @@
               height="100px"
               title="Tecnology 6"
               class="abilities_card_img"
-              src="/assets/typescript.svg"
+              src="https://enzopigatti.cl/assets/typescript.svg"
               alt="typescript Logo"
             />
           </div>
@@ -226,7 +239,7 @@
               height="100px"
               title="Tecnology 7"
               class="abilities_card_img"
-              src="/assets/python-5.svg"
+              src="https://enzopigatti.cl/assets/python-5.svg"
               alt="Python Logo"
             />
           </div>
@@ -237,7 +250,7 @@
               height="100px"
               title="Tecnology 8"
               class="abilities_card_img"
-              src="/assets/php.svg"
+              src="https://enzopigatti.cl/assets/php.svg"
               alt="PHP Logo"
             />
           </div>
@@ -259,7 +272,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 1"
-                      src="/assets/finanzas.webp"
+                      src="https://enzopigatti.cl/assets/finanzas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -290,7 +303,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
-                      src="/assets/ventas.webp"
+                      src="https://enzopigatti.cl/assets/ventas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -324,7 +337,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 1"
-                      src="/assets/finanzas.webp"
+                      src="https://enzopigatti.cl/assets/finanzas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -355,7 +368,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
-                      src="/assets/ventas.webp"
+                      src="https://enzopigatti.cl/assets/ventas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -391,7 +404,10 @@
             <div class="timeline-event">
               <div class="card timeline-content">
                 <div class="card-image">
-                  <img class="timeline_img" src="/assets/UCM.jpg" />
+                  <img
+                    class="timeline_img"
+                    src="https://enzopigatti.cl/assets/UCM.webp"
+                  />
                 </div>
                 <div class="card-content">
                   <span class="card-title grey-text"
@@ -431,7 +447,10 @@
             <div class="timeline-event">
               <div class="card timeline-content">
                 <div class="card-image">
-                  <img class="timeline_img" src="/assets/ICPC.jpg" />
+                  <img
+                    class="timeline_img"
+                    src="https://enzopigatti.cl/assets/ICPC.webp"
+                  />
                 </div>
                 <div class="card-content">
                   <span class="card-title grey-text"
@@ -451,7 +470,10 @@
             <div class="timeline-event">
               <div class="card timeline-content">
                 <div class="card-image">
-                  <img class="timeline_img" src="/assets/UCM.jpg" />
+                  <img
+                    class="timeline_img"
+                    src="https://enzopigatti.cl/assets/UCM.webp"
+                  />
                 </div>
                 <div class="card-content">
                   <span class="card-title grey-text"
