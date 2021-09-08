@@ -9,13 +9,10 @@
       content="Hello! My name it's Enzo Pigatti, am a computer engineer student and i love software development"
     />
     <meta name="robots" content="index,follow" />
-    <meta name="canonical" content="https://enzopigatti.cl/" />
+    <meta name="canonical" content="/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Enzo Pigatti | Portafolio" />
-    <meta
-      property="og:image"
-      content="https://enzopigatti.cl/assets/perfil.webp"
-    />
+    <meta property="og:image" content="/assets/perfil.webp" />
     <meta
       property="og:description"
       content="Hello! My name it's Enzo Pigatti, am a computer engineer student and i love software development"
@@ -26,16 +23,9 @@
       content="Enzo,Pigatti,Enzo Pigatti,Portfolio,Portafolio,Desarrollador,Developer,Talca,Chile"
     />
     <title>Enzo Pigatti</title>
-    <link
-      rel="icon"
-      type="image/webp"
-      href="https://enzopigatti.cl/assets/icon.webp"
-    />
-    <link href="https://enzopigatti.cl/css/styles.css" rel="stylesheet" />
-    <link
-      href="https://enzopigatti.cl/css/materialize.min.css"
-      rel="stylesheet"
-    />
+    <link rel="icon" type="image/webp" href="/assets/icon.webp" />
+    <link href="/css/styles.css" rel="stylesheet" defer />
+    <link href="/css/materialize.min.css" rel="stylesheet" defer />
   </head>
   <body>
     <header id="top" class="deep-purple">
@@ -68,7 +58,7 @@
                 width="250px"
                 height="250px"
                 title="Profile Pic"
-                src="https://enzopigatti.cl/assets/perfil.webp"
+                src="/assets/perfil.webp"
                 alt="Profile Image"
                 class="responsive-img circle profile_img"
               />
@@ -157,7 +147,7 @@
               height="100px"
               title="Tecnology 1"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/nodejs-1.svg"
+              src="/assets/nodejs-1.svg"
               alt="NodeJs Logo"
             />
           </div>
@@ -168,7 +158,7 @@
               height="100px"
               title="Tecnology 2"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/react-2.svg"
+              src="/assets/react-2.svg"
               alt="ReactJs Logo"
             />
           </div>
@@ -179,7 +169,7 @@
               height="100px"
               title="Tecnology 3"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/laravel-2.svg"
+              src="/assets/laravel-2.svg"
               alt="Laravel Logo"
             />
           </div>
@@ -190,7 +180,7 @@
               height="100px"
               title="Tecnology 4"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/spring-3.svg"
+              src="/assets/spring-3.svg"
               alt="Spring Logo"
             />
           </div>
@@ -203,7 +193,7 @@
               height="100px"
               title="Tecnology 5"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/logo-javascript.svg"
+              src="/assets/logo-javascript.svg"
               alt="Javascript Logo"
             />
           </div>
@@ -214,7 +204,7 @@
               height="100px"
               title="Tecnology 6"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/typescript.svg"
+              src="/assets/typescript.svg"
               alt="typescript Logo"
             />
           </div>
@@ -225,7 +215,7 @@
               height="100px"
               title="Tecnology 7"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/python-5.svg"
+              src="/assets/python-5.svg"
               alt="Python Logo"
             />
           </div>
@@ -236,7 +226,7 @@
               height="100px"
               title="Tecnology 8"
               class="abilities_card_img"
-              src="https://enzopigatti.cl/assets/php.svg"
+              src="/assets/php.svg"
               alt="PHP Logo"
             />
           </div>
@@ -258,7 +248,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 1"
-                      src="https://enzopigatti.cl/assets/finanzas.webp"
+                      src="/assets/finanzas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -289,7 +279,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
-                      src="https://enzopigatti.cl/assets/ventas.webp"
+                      src="/assets/ventas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -323,7 +313,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 1"
-                      src="https://enzopigatti.cl/assets/finanzas.webp"
+                      src="/assets/finanzas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -354,7 +344,7 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
-                      src="https://enzopigatti.cl/assets/ventas.webp"
+                      src="/assets/ventas.webp"
                     />
                   </div>
                   <div class="card-content">
@@ -389,18 +379,22 @@
             <div class="timeline-event"></div>
             <div class="timeline-event">
               <div class="card timeline-content">
-                <div class="card-image">
-                  <img
-                    class="timeline_img"
-                    src="https://enzopigatti.cl/assets/UCM.webp"
-                  />
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="timeline_img activator" src="/assets/UCM.webp" />
                 </div>
-                <div class="card-content">
+                <div class="card-content activator">
                   <span class="card-title grey-text"
                     >Data Modeling / Database Assistantship | Second semester
                     2021</span
                   >
+                </div>
+                <div class="card-reveal">
+                  <span class="card-title"
+                    >Data Modeling / Database Assistantship | Second semester
+                    2021</span
+                  >
                   <ul class="browser-default">
+                    <br />
                     <li>
                       <b>Data Modeling:</b>
                       <ul class="browser-default">
@@ -411,6 +405,7 @@
                         <li>MS. Sql Server</li>
                       </ul>
                     </li>
+                    <br />
                     <li>
                       <b>Database:</b>
                       <ul class="browser-default">
@@ -426,21 +421,16 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <img
-                  src="https://enzopigatti.cl/assets/fiber_manual_record_white_24dp.svg"
-                />
+                <img src="/assets/fiber_manual_record_white_24dp.svg" />
               </div>
             </div>
             <!-- Start of the event -->
             <div class="timeline-event">
               <div class="card timeline-content">
-                <div class="card-image">
-                  <img
-                    class="timeline_img"
-                    src="https://enzopigatti.cl/assets/ICPC.webp"
-                  />
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="timeline_img" src="/assets/ICPC.webp" />
                 </div>
-                <div class="card-content">
+                <div class="card-content activator">
                   <span class="card-title grey-text"
                     >The 2020 / 2019 / 2018 ICPC South America/South</span
                   >
@@ -451,19 +441,14 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <img
-                  src="https://enzopigatti.cl/assets/fiber_manual_record_white_24dp.svg"
-                />
+                <img src="/assets/fiber_manual_record_white_24dp.svg" />
               </div>
             </div>
             <!-- End of the event -->
             <div class="timeline-event">
               <div class="card timeline-content">
-                <div class="card-image">
-                  <img
-                    class="timeline_img"
-                    src="https://enzopigatti.cl/assets/UCM.webp"
-                  />
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="timeline_img" src="/assets/UCM.webp" />
                 </div>
                 <div class="card-content">
                   <span class="card-title grey-text"
@@ -480,16 +465,12 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <img
-                  src="https://enzopigatti.cl/assets/fiber_manual_record_white_24dp.svg"
-                />
+                <img src="/assets/fiber_manual_record_white_24dp.svg" />
               </div>
             </div>
             <div class="timeline-event">
               <div class="timeline-badge deep-purple white-text">
-                <img
-                  src="https://enzopigatti.cl/assets/more_vert_white_24dp.svg"
-                />
+                <img src="/assets/more_vert_white_24dp.svg" />
               </div>
             </div>
           </div>
@@ -544,5 +525,6 @@ Hello Enzo! my name is</textarea
         Copyright © Enzo Pigatti
       </p>
     </footer>
+    <script src="js/materialize.min.js" defer></script>
   </body>
 </html>
