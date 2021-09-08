@@ -380,7 +380,12 @@
             <div class="timeline-event">
               <div class="card timeline-content">
                 <div class="card-image waves-effect waves-block waves-light">
-                  <img class="timeline_img activator" src="/assets/UCM.webp" />
+                  <img
+                    class="timeline_img activator"
+                    src="/assets/UCM.webp"
+                    width="590px"
+                    height="500px"
+                  />
                 </div>
                 <div class="card-content activator">
                   <span class="card-title grey-text"
@@ -421,14 +426,23 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <img src="/assets/fiber_manual_record_white_24dp.svg" />
+                <img
+                  src="/assets/fiber_manual_record_white_24dp.svg"
+                  width="25px"
+                  height="25px"
+                />
               </div>
             </div>
             <!-- Start of the event -->
             <div class="timeline-event">
               <div class="card timeline-content">
                 <div class="card-image waves-effect waves-block waves-light">
-                  <img class="timeline_img" src="/assets/ICPC.webp" />
+                  <img
+                    class="timeline_img"
+                    src="/assets/ICPC.webp"
+                    width="590px"
+                    height="500px"
+                  />
                 </div>
                 <div class="card-content activator">
                   <span class="card-title grey-text"
@@ -441,14 +455,23 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <img src="/assets/fiber_manual_record_white_24dp.svg" />
+                <img
+                  src="/assets/fiber_manual_record_white_24dp.svg"
+                  width="25px"
+                  height="25px"
+                />
               </div>
             </div>
             <!-- End of the event -->
             <div class="timeline-event">
               <div class="card timeline-content">
                 <div class="card-image waves-effect waves-block waves-light">
-                  <img class="timeline_img" src="/assets/UCM.webp" />
+                  <img
+                    class="timeline_img"
+                    src="/assets/UCM.webp"
+                    width="590px"
+                    height="500px"
+                  />
                 </div>
                 <div class="card-content">
                   <span class="card-title grey-text"
@@ -465,12 +488,20 @@
                 </div>
               </div>
               <div class="timeline-badge deep-purple white-text">
-                <img src="/assets/fiber_manual_record_white_24dp.svg" />
+                <img
+                  src="/assets/fiber_manual_record_white_24dp.svg"
+                  width="25px"
+                  height="25px"
+                />
               </div>
             </div>
             <div class="timeline-event">
               <div class="timeline-badge deep-purple white-text">
-                <img src="/assets/more_vert_white_24dp.svg" />
+                <img
+                  src="/assets/more_vert_white_24dp.svg"
+                  width="25px"
+                  height="25px"
+                />
               </div>
             </div>
           </div>
