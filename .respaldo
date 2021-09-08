@@ -137,7 +137,7 @@
         id="abilities"
         style="margin-top: 100px; margin-bottom: 100px"
       >
-        <h1>My Abilities</h1>
+        <h2>My Abilities</h2>
         <br />
         <div class="row">
           <div class="center_flex col s12 m3" style="margin-bottom: 25px">
@@ -235,7 +235,7 @@
       <section id="projects" class="projects deep-purple white-text">
         <br />
         <div class="container" style="margin-top: 100px; margin-bottom: 100px">
-          <h1>My Projects</h1>
+          <h2>My Projects</h2>
           <div class="row">
             <div class="hide-on-med-and-up">
               <div class="col s12">
@@ -374,7 +374,7 @@
       <section id="experience">
         <br />
         <div class="container" style="margin-top: 100px">
-          <h1>Experience</h1>
+          <h2>Experience</h2>
           <div class="timeline">
             <div class="timeline-event"></div>
             <div class="timeline-event">
@@ -511,7 +511,7 @@
       <section id="contact" class="deep-purple">
         <br />
         <div class="container" style="margin-top: 100px; margin-bottom: 100px">
-          <h1 class="white-text">Contact</h1>
+          <h2 class="white-text">Contact</h1>
           <div class="row">
             <div class="col s12 m6 offset-m3">
               <div class="card">
