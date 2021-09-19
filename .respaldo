@@ -266,20 +266,28 @@
                     />
                   </div>
                   <div class="card-content">
-                    <h3>Gestión Entrada/Salida</h3>
-                    <p>
-                      Gestión de las finanzas de una ferretería local de talca
-                    </p>
-                    <p><b>Credenciales:</b></p>
-                    <p><b>Usuario</b>: 123456</p>
+                    <h3>Finance Management</h3>
+                    <p>Finance Management of an hardware store of Talca</p>
+                    <br />
+                    <b>Tecnologies: </b>
+                    <ul style="margin-top: 0; margin-left: 15px">
+                      <li>React + Redux</li>
+                      <li>Ant Design</li>
+                      <li>Node + Express</li>
+                      <li>JWT Middleware</li>
+                      <li>MongoDB</li>
+                    </ul>
+                    <br />
+                    <p><b>Credentials:</b></p>
+                    <p><b>User</b>: 123456</p>
                     <p><b>Password</b>: 123456</p>
-                    <div class="card-action">
-                      <a
-                        class="btn deep-purple"
-                        href="https://finanzas.enzopigatti.cl"
-                        >Try Live</a
-                      >
-                    </div>
+                  </div>
+                  <div class="card-action">
+                    <a
+                      class="btn deep-purple"
+                      href="https://finanzas.enzopigatti.cl"
+                      >Try Live</a
+                    >
                   </div>
                 </div>
               </div>
@@ -297,21 +305,82 @@
                     />
                   </div>
                   <div class="card-content">
-                    <h3>Sistema de ventas</h3>
+                    <h3>Sales System</h3>
                     <p>
-                      Sistema de ventas utilizando Laravel 8 + Livewire,
-                      contiene integracion a webpay
+                      This system was created to test Livewire to generate
+                      reactive apps with laravel
                     </p>
-                    <p><b>Credenciales:</b></p>
-                    <p><b>Usuario</b>: test@email.com</p>
+                    <br />
+                    <b>Tecnologies: </b>
+                    <ul style="margin-top: 0; margin-left: 15px">
+                      <li>Laravel 8</li>
+                      <li>Livewire</li>
+                      <li>Bootstrap</li>
+                      <li>Javascript</li>
+                      <li>MYSQL</li>
+                    </ul>
+
+                    <br />
+                    <p><b>Credentials:</b></p>
+                    <p><b>User</b>: test@email.com</p>
                     <p><b>Password</b>: 123456</p>
-                    <div class="card-action">
-                      <a
-                        class="btn deep-purple"
-                        href="https://ventas.enzopigatti.cl/home"
-                        >Try Live</a
-                      >
+                  </div>
+                  <div class="card-action">
+                    <a
+                      class="btn deep-purple"
+                      href="https://ventas.enzopigatti.cl/home"
+                      >Try</a
+                    >
+                  </div>
+                </div>
+              </div>
+              <div class="col s12">
+                <div class="card black-text">
+                  <div class="card-image">
+                    <img
+                      loading="lazy"
+                      width="450px"
+                      height="450px"
+                      title="Project 1"
+                      class="img_proyect"
+                      alt="Proyecto 2"
+                      src="https://enzopigatti.cl/assets/wikibirds.jpeg"
+                    />
+                  </div>
+                  <div class="card-content">
+                    <h3>Wikibirds</h3>
+                    <p>
+                      Mobile application that use an public api to test React
+                      Native
+                    </p>
+                    <br />
+                    <b>Tecnologies: </b>
+                    <ul style="margin-top: 0; margin-left: 15px">
+                      <li>React Native</li>
+                      <li>react-navigation</li>
+                      <li>Redux</li>
+                    </ul>
+                    <br />
+                    <div class="row">
+                      <div class="col s12">
+                        <p>
+                          To see this application open this QR code on Expo app
+                          on your smartphone
+                        </p>
+                      </div>
+                      <div class="col s12">
+                        <img
+                          src="https://enzopigatti.cl/assets/wikibirds.png"
+                        />
+                      </div>
                     </div>
+                  </div>
+                  <div class="card-action">
+                    <a
+                      class="btn deep-purple"
+                      href="https://ventas.enzopigatti.cl/home"
+                      >Try
+                    </a>
                   </div>
                 </div>
               </div>
@@ -331,20 +400,71 @@
                     />
                   </div>
                   <div class="card-content">
-                    <h3>Gestión Entrada/Salida</h3>
-                    <p>
-                      Gestión de las finanzas de una ferretería local de talca
-                    </p>
-                    <p><b>Credenciales:</b></p>
-                    <p><b>Usuario</b>: 123456</p>
+                    <h3>Finance Management</h3>
+                    <p>Finance Management of an hardware store of Talca</p>
+                    <br />
+                    <b>Tecnologies: </b>
+                    <ul style="margin-top: 0; margin-left: 15px">
+                      <li>React + Redux</li>
+                      <li>Ant Design</li>
+                      <li>Node + Express</li>
+                      <li>JWT Middleware</li>
+                      <li>MongoDB</li>
+                    </ul>
+                    <br />
+                    <p><b>Credentials:</b></p>
+                    <p><b>User</b>: 123456</p>
                     <p><b>Password</b>: 123456</p>
                   </div>
                   <div class="card-action">
                     <a
                       class="btn deep-purple"
                       href="https://finanzas.enzopigatti.cl"
-                      >Try Live</a
-                    >
+                      >Try
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col s12">
+                <div class="card horizontal black-text">
+                  <div class="card-image">
+                    <img
+                      loading="lazy"
+                      width="450px"
+                      height="450px"
+                      title="Project 3"
+                      class="img_proyect"
+                      alt="Proyecto 3"
+                      src="https://enzopigatti.cl/assets/ventas.webp"
+                    />
+                  </div>
+                  <div class="card-content">
+                    <h3>Sales System</h3>
+                    <p>
+                      This system was created to test Livewire to generate
+                      reactive apps with laravel
+                    </p>
+                    <br />
+                    <b>Tecnologies: </b>
+                    <ul style="margin-top: 0; margin-left: 15px">
+                      <li>Laravel 8</li>
+                      <li>Livewire</li>
+                      <li>Bootstrap</li>
+                      <li>Javascript</li>
+                      <li>MYSQL</li>
+                    </ul>
+
+                    <br />
+                    <p><b>Credentials:</b></p>
+                    <p><b>User</b>: test@email.com</p>
+                    <p><b>Password</b>: 123456</p>
+                  </div>
+                  <div class="card-action">
+                    <a
+                      class="btn deep-purple"
+                      href="https://ventas.enzopigatti.cl/home"
+                      >Try
+                    </a>
                   </div>
                 </div>
               </div>
@@ -358,25 +478,36 @@
                       title="Project 1"
                       class="img_proyect"
                       alt="Proyecto 2"
-                      src="https://enzopigatti.cl/assets/ventas.webp"
+                      src="https://enzopigatti.cl/assets/wikibirds.jpeg"
                     />
                   </div>
                   <div class="card-content">
-                    <h3>Sistema de ventas</h3>
+                    <h3>Wikibirds</h3>
                     <p>
-                      Sistema de ventas utilizando Laravel 8 + Livewire,
-                      contiene integracion a webpay
+                      Mobile application that use an public api to test React
+                      Native
                     </p>
-                    <p><b>Credenciales:</b></p>
-                    <p><b>Usuario</b>: test@email.com</p>
-                    <p><b>Password</b>: 123456</p>
-                  </div>
-                  <div class="card-action">
-                    <a
-                      class="btn deep-purple"
-                      href="https://ventas.enzopigatti.cl/home"
-                      >Try Live</a
-                    >
+                    <br />
+                    <b>Tecnologies: </b>
+                    <ul style="margin-top: 0; margin-left: 15px">
+                      <li>React Native</li>
+                      <li>react-navigation</li>
+                      <li>Redux</li>
+                    </ul>
+                    <br />
+                    <div class="row">
+                      <div class="col s9">
+                        <p>
+                          To see this application open this QR code on Expo app
+                          on your smartphone
+                        </p>
+                      </div>
+                      <div class="col s3">
+                        <img
+                          src="https://enzopigatti.cl/assets/wikibirds.png"
+                        />
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -509,6 +640,7 @@
                 />
               </div>
             </div>
+
             <div class="timeline-event">
               <div class="timeline-badge deep-purple white-text">
                 <img
